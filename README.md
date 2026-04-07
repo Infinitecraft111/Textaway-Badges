@@ -29,7 +29,7 @@ STATUS
  ✅ obtainable
 
 # ℹ️ STAFF inquriy
-This badge is given if you have filled out a form, or/and a new member who will soon apply for a job
+This badge is given if you have filled out a form, or/and a new member who will soon apply for a job will be removed soon
 
 STATUS
  
@@ -57,11 +57,11 @@ STATUS
  ⚠️  VERY LIMITED
 
 # 🍾 new Server Member
-this badge is given to thoese who are new to textaway for at least 1 month, this badge might be removed after the time period
+this badge is given to thoese who are new to textaway for at least 1 month, this badge might be removed after the time period, will eb removed soon
 
 STATUS
  
- ✅ obtainable
+ ⚠️  VERY LIMITED
 
  
 # 🐞 Bug Hunter
