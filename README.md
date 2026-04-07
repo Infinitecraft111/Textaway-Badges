@@ -56,4 +56,17 @@ STATUS
  
  ⚠️  VERY LIMITED
 
+# 🍾 new Server Member
+this badge is given to thoese who are new to textaway for at least 1 month, this badge might be removed after the time period
+
+STATUS
  
+ ✅ obtainable
+
+ 
+# 🐞 Bug Hunter
+This badge is given to thoese who submit real bugs and they get fixed
+
+STATUS
+ 
+ ✅ obtainable
